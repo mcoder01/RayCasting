@@ -1,1 +1,1 @@
-Realizes a 3D renderer using the RayCasting technique
+Render a 3D world using the RayCasting technique
